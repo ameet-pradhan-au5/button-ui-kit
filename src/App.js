@@ -31,8 +31,8 @@ grid-template-rows: 12px 12px  ;
 const Button = styled.button`
   background: transparent;
   border-radius: 3px;
-  border: 2px solid limegreen;
-  color: limegreen;
+  border: 2px solid #ea674d;
+  color: #ea674d;
   margin: 0.5em 1em;
   padding: 1em 1em;
   font-size: 1em;
@@ -41,20 +41,20 @@ const Button = styled.button`
   opacity: 1;
 
   ${props => props.primary && css`
-    background: limegreen;
+    background: #ea674d;
     color: white;
   `}
   
   ${props => props.disabled && css`
     opacity: 0.7;
-    background: limegreen;
+    background: #ea674d;
     color: white;
     cursor: not-allowed;
   `}
   
   ${props => props.raised && css`
   box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
-  background: limegreen;
+  background: #ea674d;
   color: white;
   `}
 
@@ -66,13 +66,13 @@ const Button = styled.button`
   ${props => props.hover && css`
   :hover {
     box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
-    background: limegreen;
+    background: #ea674d;
   color: white;}
   `}
 
   ${props => props.focus && css`
   :focus {
-    box-shadow: 0 0 5px limegreen;
+    box-shadow: 0 0 5px #ea674d;
     outline: 0;}
   `}
 
