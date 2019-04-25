@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/button-ui-kit/static/css/main.795991f2.chunk.css",
+    "main.js": "/button-ui-kit/static/js/main.8d140bd4.chunk.js",
+    "main.js.map": "/button-ui-kit/static/js/main.8d140bd4.chunk.js.map",
+    "runtime~main.js": "/button-ui-kit/static/js/runtime~main.50ad2bae.js",
+    "runtime~main.js.map": "/button-ui-kit/static/js/runtime~main.50ad2bae.js.map",
+    "static/js/2.e1b72d62.chunk.js": "/button-ui-kit/static/js/2.e1b72d62.chunk.js",
+    "static/js/2.e1b72d62.chunk.js.map": "/button-ui-kit/static/js/2.e1b72d62.chunk.js.map",
+    "index.html": "/button-ui-kit/index.html",
+    "precache-manifest.a79b2ba4d535f290536e291d42da0256.js": "/button-ui-kit/precache-manifest.a79b2ba4d535f290536e291d42da0256.js",
+    "service-worker.js": "/button-ui-kit/service-worker.js",
+    "static/css/main.795991f2.chunk.css.map": "/button-ui-kit/static/css/main.795991f2.chunk.css.map"
+  }
+}
