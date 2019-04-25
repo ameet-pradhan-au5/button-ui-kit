@@ -106,7 +106,6 @@ const App = () => {
         <Button active primary>Active Button</Button>
       </Grid>
 
-
     </Wrapper>
 
   );
