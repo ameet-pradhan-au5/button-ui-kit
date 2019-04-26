@@ -1,7 +1,10 @@
 # Button UI Kit
 One of the weekly challenges of Florin. To follow these challenges [https://www.florin-pop.com/blog/2019/04/buttons-ui-kit/] head over to his blog
 
+## styled-components run:
 
+npm install --save styled-components
+That's all you need to do, you are now ready to use it in your app! (yep, no build step needed 👌)
 ## Available Scripts
 
 In the project directory, you can run:
