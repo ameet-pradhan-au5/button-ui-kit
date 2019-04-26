@@ -133,7 +133,8 @@ const App = () => {
         <Button hover>Hover Button</Button>
       </Grid>
       <Grid>
-        <Button primary round>Primary Button</Button>
+        <Button primary round>Rounded Button</Button>
+        <Button primary>Thanos's gauntlet</Button>
       </Grid>
 
     </Wrapper>
