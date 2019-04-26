@@ -107,7 +107,9 @@ outline: 0;
   :hover {
     border-radius: 5em;
   }`}
+${props => props.thanos && css`
 
+`}
   
 `;
 
@@ -129,12 +131,12 @@ const App = () => {
         <Button flat>Flat Button</Button>
 
         <Button focus primary>Focus Button</Button>
-        <Button active primary>Active Button</Button>
+        <Button active primary focus>Active Button</Button>
         <Button hover>Hover Button</Button>
       </Grid>
       <Grid>
         <Button primary round>Rounded Button</Button>
-        <Button primary>Thanos's gauntlet</Button>
+        <Button primary thanos>Thanos gauntlet</Button>
       </Grid>
 
     </Wrapper>
