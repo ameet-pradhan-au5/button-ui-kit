@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1ab1d14e8e33c2ddeea67c09b0d8d51c",
+    "revision": "9c287274945ae2900221d4d9c3f5a948",
     "url": "/button-ui-kit/index.html"
   },
   {
-    "revision": "a49be1c00857e260abb8",
+    "revision": "c781c6c5b3c1cbe257ae",
     "url": "/button-ui-kit/static/css/main.795991f2.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/button-ui-kit/static/js/2.e1b72d62.chunk.js"
   },
   {
-    "revision": "a49be1c00857e260abb8",
-    "url": "/button-ui-kit/static/js/main.19b6ae5c.chunk.js"
+    "revision": "c781c6c5b3c1cbe257ae",
+    "url": "/button-ui-kit/static/js/main.2680bd21.chunk.js"
   },
   {
     "revision": "725bd6523051b3bb6ff0",
